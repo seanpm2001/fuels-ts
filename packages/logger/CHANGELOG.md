@@ -1,5 +1,14 @@
 # @fuel-ts/logger
 
+## 0.93.0
+
+### Patch Changes
+
+- Updated dependencies [d4c4e55]
+  - @fuel-ts/interfaces@0.93.0
+  - @fuel-ts/address@0.93.0
+  - @fuel-ts/math@0.93.0
+
 ## 0.92.1
 
 ### Patch Changes
